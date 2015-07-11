@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-This is repo for "Exploratory Data Analysis" coursera - Course project 1
+This is repo for "Exploratory Data Analysis" - Course project 1
